@@ -18,7 +18,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    // Component.ContentMeta(), // data
     Component.TagList(),
   ],
   left: [
@@ -47,7 +47,7 @@ export const defaultListPageLayout: PageLayout = {
     beforeBody: [
         Component.Breadcrumbs(),
         Component.ArticleTitle(),
-        Component.ContentMeta()
+        // Component.ContentMeta() //data
     ],
   left: [
     Component.PageTitle(),
