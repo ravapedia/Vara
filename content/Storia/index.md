@@ -1,5 +1,5 @@
 ---
-title: Vara
+title: 
 tags:
   - Index
 ---

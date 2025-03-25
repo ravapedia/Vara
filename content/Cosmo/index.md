@@ -1,5 +1,5 @@
 ---
-title: "Cartella Cosmo"
+title: Cartella Cosmo
+tags:
+  - Index
 ---
-
-Questa cartella contiene informazioni sul sistema cosmologico e il Demiurgo.
