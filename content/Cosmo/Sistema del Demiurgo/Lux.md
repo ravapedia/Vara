@@ -1,1 +1,1 @@
-Lux è l'unica stella del [[Sistema del Demiurgo]], prima stella degli attuali Sistemi a essere modellata. È la prima stella del Cosmo ad aver iniziato a brillare, di fatto la più vecchia stella ancora in vita. Orbita vicendevolmente attorno al proprio pianeta, [[Vara]].
+Lux è l'unica stella del [[Sistema del Demiurgo]], prima stella degli attuali Sistemi a essere modellata. È la prima stella del Cosmo ad aver iniziato a brillare, di fatto la più vecchia stella ancora in vita. Orbita vicendevolmente attorno al proprio pianeta, [[content/Vara/index]].
