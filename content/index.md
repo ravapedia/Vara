@@ -1,7 +1,6 @@
 ---
-title: Vara
+title: Home
 tags:
-  - Index
 ---
 Chiamare quest'ambientazione semplicemente "Vara" è riduttivo, in quanto Vara è il pianeta dove prendono atto la maggior parte delle vicende di questa storia, ma non corrisponde alla totalità della realtà. Sarebbe un po' come chiamare l'ambientazione del Signore degli Anelli, "La Contea". In mancanza di un termine alternativo, almeno per ora, continuiamo con "Vara", cercando di distinguere tra il pianeta e l'ambientazione in generale. 
 

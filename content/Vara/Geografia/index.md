@@ -1,5 +1,4 @@
 ---
 title: Geografia
 tags:
-  - Index
 ---

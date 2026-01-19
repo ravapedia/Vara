@@ -1,5 +1,4 @@
 ---
 title: Religione
 tags:
-  - Index
 ---
