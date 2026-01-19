@@ -2,5 +2,5 @@
 title: Libro
 tags:
   - Index
-draft: true
+draft: false
 ---
