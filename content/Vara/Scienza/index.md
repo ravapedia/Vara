@@ -1,5 +1,4 @@
 ---
 title: Scienza
 tags:
-  - Index
 ---

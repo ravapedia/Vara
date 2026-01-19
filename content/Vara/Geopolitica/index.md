@@ -1,5 +1,4 @@
 ---
-title: Geografia
+title: Geopolitica
 tags:
-  - Index
 ---
