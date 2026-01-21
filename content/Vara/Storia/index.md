@@ -1,6 +1,7 @@
 ---
 title: Storia di Vara
 tags:
+  - index
 ---
 > "Vara non nacque, né venne creato. Esso venne plasmato dalle sapienti mani di un dio che vedendo caos e disordine nel cosmo decise di plasmare la materia informe dell'universo in una creazione che potesse essere degna di brillare nel cielo."
 > *Estratto da "La Modellazione di Vara" - Chiesa del Caos

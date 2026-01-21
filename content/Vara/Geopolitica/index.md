@@ -1,4 +1,5 @@
 ---
 title: Geopolitica
 tags:
+  - index
 ---

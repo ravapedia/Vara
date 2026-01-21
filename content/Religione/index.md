@@ -1,4 +1,5 @@
 ---
 title: Religione
 tags:
+  - plugin
 ---
