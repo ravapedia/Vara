@@ -1,8 +1,3 @@
----
-title: Storia di Vara
-tags:
-  - index
----
 > "Vara non nacque, né venne creato. Esso venne plasmato dalle sapienti mani di un dio che vedendo caos e disordine nel cosmo decise di plasmare la materia informe dell'universo in una creazione che potesse essere degna di brillare nel cielo."
 > *Estratto da "La Modellazione di Vara" - Chiesa del Caos
 
@@ -12,5 +7,3 @@ L'universo è infinito, spazialmente e temporalmente: esso non ha limiti ed è e
 
 Vara si formò già pronto per ospitare la vita, che non tardò ad arrivare. Secondo la
 [[Chiesa del Caos|Dottrina del Caos]], la vita non fu donata dal Demiurgo, ma è naturale conseguenza dell'ordinamento che impresse al cosmo: la presenza del caos richiama per sua stessa natura la presenza di qualcuno che possa ordinarlo. Così come il Caos primordiale richiamò a sé l'intervento del Demiurgo, allo stesso modo il Vara pre-vita chiamò una forza che potesse regolarlo. Così, intorno al 23esimo anno dalla creazione di Vara, nacque la vita, che rapidamente si evolse fino a che nel 57esimo anno nacquero i [[Popoli di Vara#Dites|Dites]], i pre-umani, le prime forme di vita in grado di modificare e alterare l'ambiente circostante. 
-
-

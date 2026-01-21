@@ -1,5 +1,8 @@
 ---
-title: Sistema del Demiurgo
+title:
+draft: true
+tags:
+  - index
 ---
-Il Sistema del [[Demiurgo|Demiurgo]] fu il primo Sistema dell'universo attuale a essere modellato. È composto da un solo pianeta, [[Vara]], e una sola stella, [[Lux]].
+
 

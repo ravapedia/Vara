@@ -1,5 +1,6 @@
 ---
-title: Religione
+title:
 tags:
-  - plugin
+  - index
+draft: true
 ---

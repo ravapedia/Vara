@@ -1,5 +1,8 @@
 ---
-title: Geopolitica
+title:
 tags:
   - index
+draft: true
 ---
+
+

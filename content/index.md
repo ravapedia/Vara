@@ -5,7 +5,7 @@ tags:
 ---
 Chiamare quest'ambientazione semplicemente "Vara" è riduttivo, in quanto Vara è il pianeta dove prendono atto la maggior parte delle vicende di questa storia, ma non corrisponde alla totalità della realtà. Sarebbe un po' come chiamare l'ambientazione del Signore degli Anelli, "La Contea". In mancanza di un termine alternativo, almeno per ora, continuiamo con "Vara", cercando di distinguere tra il pianeta e l'ambientazione in generale. 
 
-Detto questo, un paio di parole su [[content/Vara/index|Vara]]: si tratta di un mondo high-fantasy, in cui la religione condiziona la vita degli uomini più di quanto non faccia nel nostro mondo, anche se più che una vera e propria religione essa può essere quasi assimilata a una filosofia etica e morale, non troppo dissimile dalle dottrine filosofiche greche di Socrate prima e Platone poi.
+Detto questo, un paio di parole su [[content/Cosmo/Sistema del Demiurgo/Vara/index|Vara]]: si tratta di un mondo high-fantasy, in cui la religione condiziona la vita degli uomini più di quanto non faccia nel nostro mondo, anche se più che una vera e propria religione essa può essere quasi assimilata a una filosofia etica e morale, non troppo dissimile dalle dottrine filosofiche greche di Socrate prima e Platone poi.
 
 La [[content/Magia/index|Magia]] è molto più che un semplice strumenti in mano di pochi, è una realtà che permea le vite di tutti quanti, nel bene e nel male. Non tutti sanno padroneggiarla appieno, ma non c'è nessuno che non ne abbia fatto ricorso almeno una volta.
 
