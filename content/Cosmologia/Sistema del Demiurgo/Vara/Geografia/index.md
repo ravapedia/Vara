@@ -1,6 +1,6 @@
 ---
-title:
+title: Geografia
 tags:
-  - index
-draft: true
+  - "#index"
 ---
+Vara è un pianeta praticamente composto dai Grandi Laghi Canadesi

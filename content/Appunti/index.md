@@ -1,6 +1,5 @@
 ---
-title:
+title: Libro
 tags:
   - index
-draft: true
 ---

@@ -1,4 +1,4 @@
-[[Chiesa del Caos]]
+[[Religione/Chiesa del caos/index|Chiesa del Caos]]
 #### **Primo Dogma o Dogma centrale della Chiesa del Caos**
 Riassunto: *"Se c'è caos, qualcuno deve portare ordine"*
 

@@ -1,6 +1,5 @@
 ---
-title:
+title: Panthèon
 tags:
   - index
-draft: true
 ---

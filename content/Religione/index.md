@@ -1,6 +1,5 @@
 ---
-title:
+title: Religione
 tags:
   - index
-draft: true
 ---

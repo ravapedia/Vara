@@ -1,6 +1,8 @@
 ---
-title:
+title: Chiesa del Caos
 tags:
-  - index
-draft: true
 ---
+> "Se c'è caos, qualcuno deve portare ordine"
+> *Dogma centrale della Chiesa del Caos*
+
+Ciao

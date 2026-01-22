@@ -1,6 +1,5 @@
 ---
-title:
+title: Scienza
 tags:
   - index
-draft: true
 ---

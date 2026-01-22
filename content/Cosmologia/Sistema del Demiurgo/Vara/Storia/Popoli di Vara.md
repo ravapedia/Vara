@@ -1,2 +1,2 @@
 #### Dites
-I pre-umani, la prima popolazione di Vara con capacità fisiche e intellettive in grado di permettere loro di alterare l'ambiente circostante e portare ordine in un mondo altrimenti caotico, come afferma la [[Chiesa del Caos|Dottrina del Caos]] 
+I pre-umani, la prima popolazione di Vara con capacità fisiche e intellettive in grado di permettere loro di alterare l'ambiente circostante e portare ordine in un mondo altrimenti caotico, come afferma la [[content/Religione/Chiesa del caos/index|Dottrina del Caos]] 
