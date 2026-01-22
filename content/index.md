@@ -15,3 +15,5 @@ Una delle più importanti città di Vara è indubbiamente [[Thelisia]], città c
 
 Queste erano le informazioni di base per poter iniziare ad approcciarsi a Vara. 
 Buona lettura e che il Caos riempia le vostre vite, cosicché voi possiate portare Ordine.
+
+[[content/Cosmologia/index|index]]
