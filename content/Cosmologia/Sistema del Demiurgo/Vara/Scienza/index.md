@@ -1,5 +1,0 @@
----
-title: Scienza
-tags:
-  - index
----

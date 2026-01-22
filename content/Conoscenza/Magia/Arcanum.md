@@ -1,0 +1,3 @@
+Gli arcanisti non riescono a lavorare con il Caos (materia informe all'inizio dell'universo), possono solo creare eccessi e lacune di ordine per ottenere effetti. Ad esempio, per portare un corpo da A a B si crea una lacuna di ordine in B, cosicché la natura, secondo la Legge fondamentale della natura, tenderà a riordinare la materia in A e B, trasportando il corpo da un punto all'altro. Gli Arcanisti possono solo ingannare la natura. 
+
+Gli arcanisti non riescono direttamente a operare su ordine e disordine, ridistribuirli tra due puntimantenendo però il livello di ordine totale costante.
