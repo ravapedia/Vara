@@ -9,11 +9,3 @@ La Magia è l'arte di manipolare la materia e il mondo circostante, portando Ord
 Si divide in due branche:
 - [[Arcanum]]
 - [[Magia del Caos]]
-
-
-La Magia si divide in 2 branche: l'Arcanum e la magia del Caos. 
-
-I maghi del Caos, al contrario, possono lavorare direttamente con materia ordinata e diosrdinata, organizzandole e disorganizzandole come vogliono.
-
-arcanisti e figli del Caos, divisi tra portatori di ordine e di disordine 
-

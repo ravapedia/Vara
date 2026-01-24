@@ -1,0 +1,12 @@
+PIPPO è la grandezza fondamentale che permette di descrivere qualsiasi fenomeno nell'Universo. Si tratta del maggior campo di ricerca di tutto Vara e la quasi totalità della letteratura scientifica del pianeta tratta proprio di questo. Semplificando, si può dire che PIPPO è la misura dell'ordine dell'universo.
+
+PIPPO può assumere un qualsiasi valore da meno infinito a più infinito. Poiché il valore di PIPPO nella vita di tutti i giorni è così lontano dai due estremi della scala, lo si può considerare come valore 0. Si tratta ovviamente di una convenzione, ma dato che è impossibile stabilire il valore di PIPPO dello stato in cui ci troviamo, è universalmente usato per potere calcolare le variazioni di PIPPO. Comunemente ci si riferisce ai valori positivi di PIPPO con il termine di "Ordine", mentre a quelli negativi con il termine di "Disordine". 
+
+Sia Ordine che Disordine possono crescere all'infinito. Ordine e Disordine con valori infiniti non sono mai stati osservati, solo teorizzati, per cui le loro interpretazioni restano mere speculazioni.
+
+# Disordine
+Tradizionalmente il Disordine infinito è considerato essere la Materia Informe all'inizio dell'Universo, il [[Caos]], una materia talmente disordinata da trascendere il normale concetto di PIPPO. Sebbene non sia mai stata osservata, dal momento che la [[Legge Fondamentale della Natura]] è assunta come vera, il Disordine Infinito deve essere quantomeno esistito prima della nascita di Vara. Se esista ancora e se si possa trovare al giorno d'oggi resta un mistero, e un [[Ricerca del Caos|campo di ricerca]] ancora aperto.
+
+# Ordine
+L'Ordine infinito non si sa con certezza cosa sia, né se esista davvero. Filosoficamente si è incerti della sua esistenza, dal momento che il [[Dogmi della Chiesa#**Secondo Dogma **|Secondo Dogma]] afferma che lo scopo della vita dell'uomo è raggiungere la perfezione, da alcuni identificata proprio con l'Ordine Infinito, ma poiché esso sfugge sempre alla presa dell'uomo, altri ritengono non esista davvero. 
+Alcuni scienziati lo identificano con gli [[Pantheon|Dei]], esseri tradizionalmente perfetti, in grado di manipolare il Caos, altri pensano sia la materia stessa all'interno del [[Regno degli Dei]]. Raggiungere l'Ordine Infinito è il sogno di ogni studioso, poiché esso rappresenta il Sacro Graal della scienza e aprirebbe ogni porta in ogni campo della ricerca.
