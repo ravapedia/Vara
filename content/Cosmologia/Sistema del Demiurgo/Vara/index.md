@@ -1,7 +1,6 @@
 ---
 title: Vara
 tags:
-  - index
 ---
 Vara è il primo pianeta ad aver preso forma, modellato dal [[Demiurgo]] dalla materia informe del Cosmo. È l'unico pianeta del [[Cosmologia/Sistema del Demiurgo/index|Sistema del Demiurgo]] e orbita vicendevolmente attorno alla propria stella, [[Lux]].
 

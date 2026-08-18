@@ -1,3 +1,7 @@
+---
+draft: false
+tags:
+---
 Vedi: [[Cosmologia/Sistema del Demiurgo/Vara/Storia/index|Storia di Vara]]
 Anno 0: Avvento del [[Demiurgo|Demiurgo]]
 Anno 23: Nascita della vita

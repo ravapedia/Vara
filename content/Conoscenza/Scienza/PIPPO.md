@@ -1,3 +1,7 @@
+---
+draft: false
+tags:
+---
 PIPPO è la grandezza fondamentale che permette di descrivere qualsiasi fenomeno nell'Universo. Si tratta del maggior campo di ricerca di tutto Vara e la quasi totalità della letteratura scientifica del pianeta tratta proprio di questo. Semplificando, si può dire che PIPPO è la misura dell'ordine dell'universo.
 
 PIPPO può assumere un qualsiasi valore da meno infinito a più infinito. Poiché il valore di PIPPO nella vita di tutti i giorni è così lontano dai due estremi della scala, lo si può considerare come valore 0. Si tratta ovviamente di una convenzione, ma dato che è impossibile stabilire il valore di PIPPO dello stato in cui ci troviamo, è universalmente usato per potere calcolare le variazioni di PIPPO. Comunemente ci si riferisce ai valori positivi di PIPPO con il termine di "Ordine", mentre a quelli negativi con il termine di "Disordine". 

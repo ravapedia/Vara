@@ -1,15 +1,11 @@
 ---
 title: Home
-tags:
-  - index
 ---
-Chiamare quest'ambientazione semplicemente "Vara" è riduttivo, in quanto Vara è il pianeta dove prendono atto la maggior parte delle vicende di questa storia, ma non corrisponde alla totalità della realtà. Sarebbe un po' come chiamare l'ambientazione del Signore degli Anelli, "La Contea". In mancanza di un termine alternativo, almeno per ora, continuiamo con "Vara", cercando di distinguere tra il pianeta e l'ambientazione in generale. 
-
-Detto questo, un paio di parole su [[Cosmologia/Sistema del Demiurgo/Vara/index|Vara]]: si tratta di un mondo high-fantasy, in cui la religione condiziona la vita degli uomini più di quanto non faccia nel nostro mondo, anche se più che una vera e propria religione essa può essere quasi assimilata a una filosofia etica e morale, non troppo dissimile dalle dottrine filosofiche greche di Socrate prima e Platone poi.
+Un paio di parole su Vara: si tratta di un mondo high-fantasy, in cui la religione condiziona la vita degli uomini più di quanto non faccia nel nostro mondo, anche se più che una vera e propria religione essa può essere quasi assimilata a una filosofia etica e morale, non troppo dissimile dalle dottrine filosofiche greche di Socrate prima e Platone poi.
 
 La [[content/Conoscenza/Magia/index|Magia]] è molto più che un semplice strumento in mano di pochi, è una realtà che permea le vite di tutti quanti, nel bene e nel male. Non tutti sanno padroneggiarla appieno, ma non c'è nessuno che non ne abbia fatto ricorso almeno una volta.
 
-La [[Religione/Chiesa del Caos/index|Dottrina del Caos]], la religione più diffusa su scala globale, si basa sul principio che al disordine segua sempre ed inequivocabilmente l'ordine: dal caos primordiale dell'universo sarebbe stato così plasmato Vara, grazie al Dio Demiurgo, il Dio ordinatore. Secondo questo principio, l'uomo ha il compito di portare ordine, nella propria vita, nella propria città, nel mondo: ogni azione deve essere finalizzata a raggiungere il meglio per sé stessi e per gli altri. Per questo la si può considerare quasi una filosofia di vita: il culto degli dei è posto in secondo piano rispetto al rispetto dei dogmi della Chiesa.
+La [[Religione/Chiesa del Caos/index|Dottrina del Caos]], la religione più diffusa su scala globale, si basa sul principio che al disordine segua sempre ed inequivocabilmente l'ordine: dal caos primordiale dell'universo sarebbe stato così plasmato Vara, grazie al Dio Demiurgo, il Dio ordinatore. Secondo questo principio, l'uomo ha il compito di portare ordine, nella propria vita, nella propria città, nel mondo: ogni azione deve essere finalizzata a raggiungere il meglio per sé stessi e per gli altri. Per questo la si può considerare quasi una filosofia di vita: il culto degli dei è posto in secondo piano rispetto al rispetto dei dogmi della Dottrina.
 
 Dalla Dottrina del Caos nascono le principali branche di ricerca di Vara, principalmente concentrate sulle leggi del [[Cosmologia/index|Cosmo]] e le loro conseguenze filosofiche e pratiche. Molti dedicano la propria vita allo [[Conoscenza/Scienza/index|studio]] di queste proprietà, altri invece imparano a metterle in [[Conoscenza/Magia/index|pratica]].
 

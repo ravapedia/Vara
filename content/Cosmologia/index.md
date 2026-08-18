@@ -1,12 +1,9 @@
 ---
 title: Cosmologia
 tags:
-  - index
 ---
 Non si conoscono perfettamente i principi dell'universo, né la sua reale forma o estensione. Per tradizione, esso viene considerato infinito nello spazio e nel tempo e sebbene non esistano prove a sostegno di questa tesi, ciò è considerato verità incontrovertibile e alla base di molti assunti filosofici della [[Religione/Chiesa del caos/index|Dottrina del Caos]].
 Si sa per certo che il cosmo rispetta la [[Dogmi della Chiesa#**Primo Dogma o Dogma centrale della Chiesa del Caos**|Legge Fondamentale della Natura]], ossia che al Caos consegue sempre l'ordine. È assodato che il disordine, l'assenza di perfezione, richiami a sé una forza capace di porgli un ordine, di donargli la perfezione. Ciò si può evincere dallo studio della storia del cosmo: il primo pianeta venne modellato dal [[Demiurgo]], richiamato dalla presenza del Caos primordiale, una massa informe di materia. Solo pochi anni dopo la nascita del pianeta nacque a sua volta la [[Popoli di Vara#Dites|vita]], richiamata dall'assenza di una forza ordinatrice. 
-
-*Uno studio più approfondito della Legge Fondamentale della Natura può essere consultato in [[Legge Fondamentale della Natura]]*. 
 
 #### Struttura del Cosmo
 Il cosmo è ordinato in Sistemi, tanti piccoli gruppi di poche stelle e pianeti.
